@@ -14,9 +14,11 @@ Programming Environment
 * Command to run the application:
 
 
-    java –jar Dictionary.jar <mode> <arguments>
-    <mode> : -r => Random mode
-             -u => User input mode
+    java –jar Dictionary.jar &lt;mode&gt; &lt;arguments&gt;
+
+&lt;mode&gt; : 
+* -r => Random mode </br>
+* -u => User input mode
 
 For example:
 
