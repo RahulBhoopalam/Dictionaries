@@ -11,12 +11,10 @@ Programming Environment
 
 * Compiler and Runtime Environment: JDK 1.7.0_05, JRE 1.7.0_05
 
-* Command to run the application: 
+* Command to run the application:
 
 
     java –jar Dictionary.jar <mode> <arguments>
-
-
     <mode> : -r => Random mode
              -u => User input mode
 
