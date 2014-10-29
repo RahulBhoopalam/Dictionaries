@@ -30,6 +30,13 @@ For example:
 
 The following files:
 
-AVL_inorder.out, AVL_postorder.out, AVLHash_inorder.out, AVLHash_postorder.out, BTree_level.out, BTree_sorted.out, BTreeHash_level.out, BTreeHash_sorted.out
+* AVL_inorder.out
+* AVL_postorder.out
+* AVLHash_inorder.out
+* AVLHash_postorder.out
+* BTree_level.out
+* BTree_sorted.out
+* BTreeHash_level.out
+* BTreeHash_sorted.out
 
-will be created. They represent the nodes of the corresponding trees in inorder, postorder or level, sorted orders.
+will be created. They represent the nodes of the corresponding trees in **inorder**, **postorder** or **level**, **sorted** orders.
