@@ -7,26 +7,26 @@ The purpose of this project is to compare the relative performance of AVL, Red-B
 Programming Environment
 -----------------------
 
-* Language used: Java
+* **Language used:** Java
 
-* Compiler and Runtime Environment: JDK 1.7.0_05, JRE 1.7.0_05
+* **Compiler and Runtime Environment:** JDK 1.7.0_05, JRE 1.7.0_05
 
-* Command to run the application:
+* **Command to run the application:**
 
 
-    java –jar Dictionary.jar &lt;mode&gt; &lt;arguments&gt;
+    `java –jar Dictionary.jar <mode> <arguments>`
 
-    &lt;mode&gt; : 
+    `<mode>` : 
     * -r => Random mode </br>
     * -u => User input mode
 
     For example:
 
-    java –jar Dictionary.jar -r <hashTableSize> <b-tree-order>
-    java –jar Dictionary.jar -u <input-filename>
+    `java –jar Dictionary.jar -r <hashTableSize> <b-tree-order>`
+    `java –jar Dictionary.jar -u <input-filename>`
 
 
-* Output
+* **Output**
 
     The following files:
 
