@@ -23,6 +23,7 @@ Programming Environment
     For example:
 
     `java –jar Dictionary.jar -r <hashTableSize> <b-tree-order>`
+    
     `java –jar Dictionary.jar -u <input-filename>`
 
 
