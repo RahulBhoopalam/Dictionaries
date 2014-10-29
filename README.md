@@ -16,11 +16,11 @@ Programming Environment
 
     java –jar Dictionary.jar &lt;mode&gt; &lt;arguments&gt;
 
-&lt;mode&gt; : 
-* -r => Random mode </br>
-* -u => User input mode
+    &lt;mode&gt; : 
+    * -r => Random mode </br>
+    * -u => User input mode
 
-For example:
+    For example:
 
     java –jar Dictionary.jar -r <hashTableSize> <b-tree-order>
     java –jar Dictionary.jar -u <input-filename>
@@ -28,15 +28,15 @@ For example:
 
 * Output
 
-The following files:
+    The following files:
 
-* AVL_inorder.out
-* AVL_postorder.out
-* AVLHash_inorder.out
-* AVLHash_postorder.out
-* BTree_level.out
-* BTree_sorted.out
-* BTreeHash_level.out
-* BTreeHash_sorted.out
+    * AVL_inorder.out
+    * AVL_postorder.out
+    * AVLHash_inorder.out
+    * AVLHash_postorder.out
+    * BTree_level.out
+    * BTree_sorted.out
+    * BTreeHash_level.out
+    * BTreeHash_sorted.out
 
-will be created. They represent the nodes of the corresponding trees in **inorder**, **postorder** or **level**, **sorted** orders.
+    will be created. They represent the nodes of the corresponding trees in **inorder**, **postorder** or **level**, **sorted** orders.
